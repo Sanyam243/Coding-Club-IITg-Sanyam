@@ -6,4 +6,3 @@ Hostel :Manas
 
 I love to code and watch anime series and playing cricket.
 
-I want to do open source to get selected in upcoming gsoc.Iw will boost up my carrer .
