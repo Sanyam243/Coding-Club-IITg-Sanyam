@@ -6,4 +6,4 @@ Hostel :Manas
 
 I love to code and watch anime series and playing cricket.
 
-I want to do open source so that can get select in upcoming gsoc. it would be very beneficial for my resume and my carrrer.
+I want to do open source to get selected in upcoming gsoc.Iw will boost up my carrer .
